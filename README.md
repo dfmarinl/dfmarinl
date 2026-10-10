@@ -161,9 +161,8 @@ I'm open to junior software development opportunities, collaboration, and projec
 
  Bogotá, Colombia
 
-- **GitHub:** [@dfmarinl](https://github.com/dfmarinl)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **Portfolio:** [Explore my work](YOUR_PORTFOLIO_URL)
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/david-marin-software)
+- **Portfolio:** [Explore my work](https://portafolio-nu-henna.vercel.app/)
 
 ---
 
