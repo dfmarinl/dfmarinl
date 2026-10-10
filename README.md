@@ -161,7 +161,7 @@ I'm open to junior software development opportunities, collaboration, and projec
 
  Bogotá, Colombia
 
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/david-marin-software)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/david-marin-software)
 - **Portfolio:** [Explore my work](https://portafolio-nu-henna.vercel.app/)
 
 ---
