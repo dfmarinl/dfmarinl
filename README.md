@@ -2,12 +2,14 @@
 
 ### Junior Full-Stack Developer | React · Node.js · Java · Spring Boot
 
-Systems Engineering graduate from Universidad Distrital Francisco José de Caldas, based in Bogotá, Colombia. I build web applications and REST APIs, work with relational databases, and apply software engineering principles to create maintainable solutions.
+Systems Engineering graduate from Universidad Distrital Francisco José de Caldas, based in Bogotá, Colombia.
 
-I'm passionate about backend development, software architecture, and cloud computing. I'm continuously strengthening my skills in Java, Spring Boot, and AWS.
+I build web applications and REST APIs, work with relational databases, and apply software engineering principles to create maintainable solutions.
+
+I'm particularly interested in backend development, software architecture, and cloud computing. I'm continuously strengthening my skills in Java, Spring Boot, and AWS.
 
 - 💻 Focused on full-stack and backend development
-- 🔐 Experience building REST APIs and JWT-based authentication in academic projects
+- 🔐 Experience building REST APIs and JWT-based authentication
 - 🧩 Interested in software architecture, design patterns, and clean code
 - ☁️ Learning and exploring AWS cloud services and architecture
 - 🎯 Open to junior software development opportunities
@@ -18,39 +20,35 @@ I'm passionate about backend development, software architecture, and cloud compu
 
 ### Languages
 
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=python)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python" alt="Java, JavaScript, TypeScript and Python" />
+</p>
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React, HTML, CSS and Tailwind CSS" />
+</p>
 
 ### Backend
 
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Spring Boot](https://skillicons.dev/icons?i=spring)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Node.js, Express and Spring Boot" />
+</p>
 
 **Additional skills:** REST APIs · JWT Authentication · Role-Based Access Control
 
 ### Databases
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL" />
+</p>
 
 ### Cloud, Tools & Design
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Figma](https://skillicons.dev/icons?i=figma)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,figma" alt="AWS, Docker, Git, GitHub, Linux and Figma" />
+</p>
 
 **Additional tools:** Vercel · Jira · PlantUML · Draw.io · CI/CD
 
@@ -64,6 +62,23 @@ I'm passionate about backend development, software architecture, and cloud compu
 
 ---
 
+## GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dfmarinl&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfmarinl&layout=compact&hide_border=true&theme=transparent&langs_count=6"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
 ## Featured Projects
 
 ### 1. ChibchaWEB — Web Hosting Management Platform
@@ -73,7 +88,7 @@ A web hosting management platform designed around customer, employee, and admini
 **Technologies:** React · React Router · Tailwind CSS · Java · Spring Boot
 
 - Designed software architecture and UML models.
-- Applied GoF design patterns to support modularity and maintainability.
+- Worked on GoF design patterns to support modularity and maintainability.
 - Implemented the initial frontend structure and role-based navigation.
 - Backend development is in progress.
 
@@ -85,8 +100,8 @@ A web application developed collaboratively to support the pet adoption process,
 
 **Technologies:** JavaScript · Express · MySQL · Tailwind CSS · Sockets · Jest
 
-- Implemented adoption workflow functionality and post-adoption tracking.
-- Developed real-time updates using sockets.
+- Developed functionality for the adoption workflow and post-adoption tracking.
+- Implemented real-time updates using sockets.
 - Contributed unit and integration tests for critical modules.
 - Collaborated on requirements and task management using Jira.
 
@@ -111,37 +126,40 @@ A web application combining a Spring Boot backend with a React frontend.
 
 **Technologies:** Java · Spring Boot · React
 
-💻 [Explore Repository](https://github.com/dfmarinl?tab=repositories)
+💻 [Explore my repositories](https://github.com/dfmarinl?tab=repositories)
 
 ---
 
 ## ☁️ Cloud Learning & Certifications
 
-I'm expanding my practical knowledge of cloud computing, AWS services, and cloud architecture.
+### AWS Fundamentals Specialization — Coursera
 
-**AWS Fundamentals Specialization — Coursera**
+Completed coursework covering:
+
 - AWS Cloud Technical Essentials
 - Migrating to the AWS Cloud
 - Architecting Solutions on AWS
 
-I'm particularly interested in understanding how to design, deploy, and operate applications in the cloud.
+[View Certificate](https://coursera.org/verify/specialization/6XP0IHET92KI)
+
+I'm expanding my practical knowledge of AWS services, cloud architecture, application deployment, and serverless solutions.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-- AWS services and cloud architecture
 - Java and Spring Boot backend development
+- AWS services and cloud architecture
 - Cloud deployment and infrastructure
 - Software design and maintainable application architecture
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to junior software development opportunities, collaboration, and projects where I can contribute, solve problems, and continue growing as an engineer.
 
-📍 Bogotá, Colombia
+ Bogotá, Colombia
 
 - **GitHub:** [@dfmarinl](https://github.com/dfmarinl)
 - **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
