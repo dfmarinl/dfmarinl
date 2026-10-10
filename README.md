@@ -1,4 +1,4 @@
-# Hi, I'm David Fernando Marín Lancheros 👋
+# Hi, I'm David Fernando Marín Lancheros 
 
 ### Junior Full-Stack Developer | React · Node.js · Java · Spring Boot
 
@@ -14,7 +14,7 @@ I'm passionate about backend development, software architecture, and cloud compu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -64,7 +64,7 @@ I'm passionate about backend development, software architecture, and cloud compu
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. ChibchaWEB — Web Hosting Management Platform
 
