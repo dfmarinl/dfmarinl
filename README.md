@@ -7,7 +7,6 @@
 
 **Junior Full-Stack Developer · Bogotá, Colombia**
 
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-Junior_Roles-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#-lets-connect)
 [![Location](https://img.shields.io/badge/Bogotá-Colombia-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bogota,Colombia)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-nu-henna.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-marin-software)
